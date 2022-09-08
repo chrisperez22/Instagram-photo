@@ -1,0 +1,70 @@
+.wrapper {
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    height: 650px;
+
+}
+.picture {
+    width: 570px;
+    height: 300px;
+}
+.header h1 {
+    font-size: 20px;
+    display: flex;
+    margin-top: 30px;
+
+}
+.header p {
+    font-size: large;
+    margin-top: 22px;
+}
+body{
+    background-color: black
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+.likes {
+    margin-left: 2%;
+}
+
+.icons{
+    display: flex;
+    margin-left: 20px;
+}
+.send {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+  .heart  {
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+ .comment   {
+    width: 60px;
+    height: 60px;
+ 
+}
+.bookmark {
+    width: 55px;
+    height: 55px;
+margin-left: 340px;
+margin-top: 3px;
+
+}
+.header{
+    display: flex;
+}
+.dots {
+    width: 40px;
+    height: 40px;
+    margin-left: 381px;
+    margin-top: 20px;
+}
